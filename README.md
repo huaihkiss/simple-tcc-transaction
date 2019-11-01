@@ -6,8 +6,9 @@ spring-cloud-netflix的框架<br/>
 1.事务状态变更感知<br/>
 2.支持netflix
 
+
 其他功能陆续添加中。。。。
 
 如有建议或者交流，可以微信联系我huaihkiss
 
-目前处于0.1版本
+目前处于0.1版本，demo地址：https://github.com/huaihkiss/simple-tcc-demo
