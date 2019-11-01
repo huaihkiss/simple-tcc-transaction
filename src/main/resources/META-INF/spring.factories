@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.huaihkiss.tcc.configuration.ZooKeeperConfiguration,com.huaihkiss.tcc.configuration.TransactionConfiguration
